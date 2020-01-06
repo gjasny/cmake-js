@@ -1,6 +1,6 @@
 {
-  "name": "cmake-js",
-  "description": "CMake.js - a Node.js/io.js native addon build tool",
+  "name": "@gjasny/cmake-js",
+  "description": "Fork of CMake.js with Visual Studio 2019 support",
   "license": "MIT",
   "keywords": [
     "native",
@@ -16,8 +16,8 @@
     "boost"
   ],
   "main": "lib",
-  "version": "6.0.0",
-  "author": "Gábor Mező aka unbornchikken",
+  "version": "6.0.1",
+  "author": "Gregor Jasny",
   "repository": {
     "type": "git",
     "url": "git://github.com/unbornchikken/cmake-js.git"

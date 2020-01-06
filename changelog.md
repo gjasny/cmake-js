@@ -1,3 +1,9 @@
+v6.0.1 - 07/01/20
+=================
+
+- Forked cmake-js to gain Visual Studio 2019 compatibility
+- Autodetect Visual Studio 2019 platform (cmake-js/cmake-js#201)
+
 v6.0.0 - 30/09/19
 =================
 

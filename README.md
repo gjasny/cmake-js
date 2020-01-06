@@ -1,5 +1,7 @@
 # CMake.js (MIT)
 
+This (`@gjasny/cmake-js`) is a fork of the official CMake.js repo to add Visual Studio 2019 compatibility. I will maintain this fork until [cmake-js/cmake-js#201](https://github.com/cmake-js/cmake-js/pull/201/files) (or a feature equivalent) is merged.
+
 ## About
 CMake.js is a Node.js/io.js native addon build tool which works *exactly* like [node-gyp](https://github.com/TooTallNate/node-gyp), but instead of [gyp](http://en.wikipedia.org/wiki/GYP_%28software%29), it is based on [CMake](http://cmake.org) build system. It's compatible with the following runtimes:
 
